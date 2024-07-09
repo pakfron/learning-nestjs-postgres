@@ -1,0 +1,4 @@
+yarn add class-validator class-transformer
+yarn add change-case
+yarn add @nestjs/typeorm typeorm pg
+yarn add multer fs-extra

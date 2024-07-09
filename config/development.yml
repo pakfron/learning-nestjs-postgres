@@ -1,0 +1,7 @@
+server:
+  port: 3001
+
+db:
+  username: postgres
+  password: 1234
+  database: cmstock
